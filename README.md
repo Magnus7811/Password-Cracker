@@ -1,6 +1,6 @@
 # Termux-Password-Cracker (Infosec Piyush) 🔥
 
-A versatile Python-based command-line tool for cracking passwords of various encrypted file types (ZIP, PDF, RAR, 7z) within the Termux environment. It supports both wordlist and brute-force attack modes, providing a "green hacker vibe" UI experience.
+A versatile Mobile friendly Python-based command-line tool for cracking passwords of various encrypted file types (ZIP, PDF, RAR, 7z) within the Termux environment. It supports both wordlist and brute-force attack modes, providing a "green hacker vibe" UI experience.
 
 ## Features
 
@@ -52,7 +52,7 @@ A versatile Python-based command-line tool for cracking passwords of various enc
     git clone [https://github.com/Magnus7811/Termux-Password-Cracker.git](https://github.com/Magnus7811/Termux-Password-Cracker.git)
     cd Termux-Password-Cracker
     ```
-    If you're just putting your `f8.py` here, ensure it's in this folder.
+    If you're just putting your `crack.py` here, ensure it's in this folder.
 
 ## Usage
 
@@ -62,11 +62,11 @@ A versatile Python-based command-line tool for cracking passwords of various enc
     ```
 2.  Run the script:
     ```bash
-    python f8.py
+    python crack.py
     ```
 3.  Follow the on-screen prompts to select file type, attack mode, and provide paths.
 
 ## Disclaimer
 
-This tool is intended for educational purposes and ethical penetration testing ONLY. Do not use it on systems or files for which you do not have explicit permission. Unauthorized access to computer systems is illegal and punishable by law. The developer is not responsible for any misuse.
+This tool is mobile friendly and intended for educational purposes and ethical penetration testing ONLY. Do not use it on systems or files for which you do not have explicit permission. Unauthorized access to computer systems is illegal and punishable by law. The developer is not responsible for any misuse.
 
